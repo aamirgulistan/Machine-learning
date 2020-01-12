@@ -1,4 +1,4 @@
-# ML_PCF
+# Machine Learning in Photonic Crystal Fiber
 
 
 ## This repo is used to obtain results for a Journal paper "Machine learning approach for computing optical properties of a photonic crystal fiber"
